@@ -1,2 +1,2 @@
 # Inconnus
-A working repository for segmentation hackathon
+A working repository for segmentation hackathon.
